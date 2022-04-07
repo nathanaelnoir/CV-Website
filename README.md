@@ -3,7 +3,7 @@
 
 # https://niederwieser-cv.netlify.app
 
-> Welcome to my _new_ blog! It's JavaScript from head to toe using the amazing site generator [Gatsby](https://gatsbyjs.org) and [`styled-components`](https://styled-components.com) for the design and layout. The latter relies heavily on the awesome CSS grid, by the way.
+> Welcome to my _CV_ page! It's JavaScript from head to toe using the amazing site generator [Gatsby](https://gatsbyjs.org) and [`styled-components`](https://styled-components.com) for the design and layout. The latter relies heavily on the awesome CSS grid, by the way.
 
 
 
