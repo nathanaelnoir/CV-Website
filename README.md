@@ -13,30 +13,14 @@
 
 # Why Did I Do This?
 
-When writing papers in an academic environment, the goal is to make them as compact as possible, easy and quick to read and understand. In such writings, the inclusion of as many results as possible is often more important than pointing out the path that led to those results.
-
-This is why it is so difficult to understand papers from topics other than one's own and to find access to new fields.
-With this blog I want to try to create a more _intuitive_ access for people who feel similar to me. Maybe we can find better insights into foreign fields while interacting and reading about each others works. That is my motivation and the goal of this project.
+Digital presence is very important nowadays. You often find yourself in the situation of spontaneously wanting to give someone your CV or important contact details. Traditionally, an _analogue_ business card is often used, but this creates a lot of _unnecessary waste_. For this reason, I have created a page like this. You can scan the **QR code** and put it in your _Apple Wallet_, for example, and send it if you need to or show it to someone for scanning.
 
 
 # How Did I Do This?
 
-<div align="center">
-  <p>Built with Gatsby</p>
-  <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
-  </a>
-</div>
+The site is fully responsive, built with [Gatsby](https://gatsbyjs.org), has [fluid typography](https://css-tricks.com/snippets/css/fluid-typography), relies heavily on [React Hooks](https://reactjs.org/docs/hooks-intro) for stateful function components and CSS grid for layout.
 
-The site is fully responsive, built with [Gatsby](https://gatsbyjs.org), has [fluid typography](https://css-tricks.com/snippets/css/fluid-typography), relies heavily on [React Hooks](https://reactjs.org/docs/hooks-intro) for stateful function components and CSS grid for layout. It uses the following libraries:
-
-- [**MDX**](https://mdxjs.com) for interactive content.
-- [**styled-components**](https://styled-components.com) for appearance + DarkMode.
-- [**KaTeX**](https://katex.org) for typesetting math.
-- [**gatsby-remark-vscode**](https://gatsbyjs.org/packages/gatsby-remark-vscode) for syntax highlighting.
-- [**Disqus**](https://disqus.com) for blog post comments.
-- [**Algolia**](https://algolia.com) for custom search.
-- [**react-spring**](https://react-spring.io) for animations.
+The QR Code was made with Mathematica.
 
 ## Installation
 
